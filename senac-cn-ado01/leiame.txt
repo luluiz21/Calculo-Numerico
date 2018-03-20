@@ -1,0 +1,2 @@
+Esse projeto para mudança de bases, foi usado o método de usar a base 10 como intermediária, pois ficaria mais fácil.
+Pega o valor absoluto do primeiro numero em qualquer base(de 2 a 36) e passa para base 10, após isso muda da base 10 para base desejada. Usando o método de divisão.
